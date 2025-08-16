@@ -31,8 +31,8 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/Shubhashish-Chakraborty/shubhportfolio
-cd shubhportfolio
+git "clone repolink"
+cd "file name"
 ```
 ## Setup
 
@@ -49,9 +49,3 @@ npm run dev
 ## Usage
 
 Access the app in your web browser at `http://localhost:3000/`.
-
-## Contributors
-
-- Shubh ([LinkedIn](https://www.linkedin.com/in/Shubhashish-Chakraborty/))
-- Shubh ([Twitter](https://x.com/__Shubhashish__))
-- Shubh ([Instagram](https://www.instagram.com/___shubhashish___))
